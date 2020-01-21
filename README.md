@@ -1,5 +1,3 @@
-# au.edu.csu.csusap
-
 #  CSU uni course Web host
 
 My student web portal from CSU
