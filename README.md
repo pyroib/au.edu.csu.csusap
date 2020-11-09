@@ -16,7 +16,7 @@ None
 
 ## Contributing
 
-Projoect not taking contributions
+Project not taking contributions
 
 ## Authors
 
